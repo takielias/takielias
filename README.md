@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Taki Ahmad Elias. A Self-Taught Polyglot Programmer, Learner.
+
 <!--
 **takielias/takielias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![TakiElias's GitHub stats](https://github-readme-stats.vercel.app/api?username=takielias&show_icons=true&theme=radical)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takielias&hide=html,css,hack&langs_count=9&show_icons=true&theme=vue-dark">
