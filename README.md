@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![codeigniter-websocket][codeigniter-websocket]  ![codeigniter4-websocket][codeigniter4-websocket]
+
 ![TakiElias's GitHub stats](https://github-readme-stats.vercel.app/api?username=takielias&show_icons=true&theme=radical)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takielias&hide=html,css,hack&langs_count=9&show_icons=true&theme=vue-dark">
+
+[codeigniter4-websocket]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=codeigniter4-websocket&theme=jolly&cache_seconds=86400
+
+[codeigniter-websocket]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=codeigniter-websocket&theme=algolia&cache_seconds=86400
