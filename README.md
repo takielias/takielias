@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Taki Ahmad Elias. A Self-Taught Polyglot Programmer, Learner.
-
+![](https://komarev.com/ghpvc/?username=takielias&color=blueviolet)
 <!--
 **takielias/takielias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
