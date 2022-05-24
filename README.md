@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 ## If you appreciate what I do, 
 ## I'd love to have a cup of coffee from you!
 
-<a href="https://www.buymeacoffee.com/takielias" target="_blank">
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+<a href="https://www.buymeacoffee.com/takielias" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="takielias" /></a>
 </a>
+<br>
+<br>
 
 # Get me
 <a href="mailto:taki.elias@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/send-mass-email.png"/></a>
