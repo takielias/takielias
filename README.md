@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ![codeigniter-websocket][codeigniter-websocket]  ![codeigniter4-websocket][codeigniter4-websocket]
 
-
 ## If you appreciate what I do, 
 ## I'd love to have a cup of coffee from you!
 
@@ -40,6 +39,8 @@ Here are some ideas to get you started:
 </a>
 
 ![TakiElias's GitHub stats](https://github-readme-stats.vercel.app/api?username=takielias&show_icons=true&theme=radical)
+
+![TakiElias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=takielias&theme=dark&hide_border=true)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takielias&hide=html,css,hack&langs_count=9&show_icons=true&theme=vue-dark">
 
