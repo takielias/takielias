@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Precious Library For Codeigniter
+# My Precious PHP Library
+
+# Laravel 
+
+![tablar][tablar] 
+
+# Codeigniter
 
 ![codeigniter-websocket][codeigniter-websocket]  ![codeigniter4-websocket][codeigniter4-websocket]
 
@@ -47,4 +53,7 @@ Here are some ideas to get you started:
 [codeigniter4-websocket]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=codeigniter4-websocket&theme=jolly&cache_seconds=86400
 
 [codeigniter-websocket]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=codeigniter-websocket&theme=algolia&cache_seconds=86400
+
+[tablar]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=tablar&theme=algolia&cache_seconds=86400
+
 
