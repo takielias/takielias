@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Laravel 
 
-![tablar][tablar] 
+![tablar][tablar] ![tablar-kit][tablar-kit] 
 
 # Codeigniter
 
@@ -55,5 +55,6 @@ Here are some ideas to get you started:
 [codeigniter-websocket]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=codeigniter-websocket&theme=algolia&cache_seconds=86400
 
 [tablar]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=tablar&theme=algolia&cache_seconds=86400
+[tablar-kit]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=tablar-kit&theme=algolia&cache_seconds=86400
 
 
