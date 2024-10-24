@@ -7,16 +7,6 @@ I'm Taki Ahmad Elias. A Self-Taught Polyglot Programmer, Learner.
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs/pull/9) in [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
-2. 🔱 Forked [takielias/laravel-clean-architecture-ddd-cqrs](undefined) from [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
-3. 💬 Commented on [#11](https://github.com/takielias/tablar-crud-generator/issues/11#issuecomment-2432760603) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-4. 💬 Commented on [#74](https://github.com/anthropics/anthropic-quickstarts/issues/74#issuecomment-2432544908) in [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts)<br>
-5. ✌️ Released [1.0.0](https://github.com/takielias/ddev-oci8/releases/tag/1.0.0) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-6. 📔 Created new repository [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-7. ✌️ Released [1.0.0](https://github.com/takielias/ddev-oci8/releases/tag/1.0.0) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-8. 📔 Created new repository [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-9. 📔 Created new repository [takielias/oracle-instantclient](https://github.com/takielias/oracle-instantclient)<br>
-10. ✌️ Released [1.0.2](https://github.com/takielias/ddev-oci8/releases/tag/1.0.2) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
