@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takielias&hide=html,css,hack&langs_count=9&show_icons=true&theme=vue-dark">
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [codeigniter4-websocket]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=codeigniter4-websocket&theme=jolly&cache_seconds=86400
 
 [codeigniter-websocket]: https://github-readme-stats.vercel.app/api/pin/?username=takielias&repo=codeigniter-websocket&theme=algolia&cache_seconds=86400
