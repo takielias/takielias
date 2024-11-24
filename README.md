@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/codecoz/aim-admin/pull/6) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
-2. ✌️ Released [0.9](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.9) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-3. ✌️ Released [0.8](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.8) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-4. ✌️ Released [0.7](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.7) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-5. 💬 Commented on [#76](https://github.com/takielias/tablar/issues/76#issuecomment-2454774198) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-6. 💪 Opened PR [#5](https://github.com/codecoz/aim-admin/pull/5) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
-7. 💪 Opened PR [#9](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs/pull/9) in [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
-8. 🔱 Forked [takielias/laravel-clean-architecture-ddd-cqrs](undefined) from [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
-9. 💬 Commented on [#11](https://github.com/takielias/tablar-crud-generator/issues/11#issuecomment-2432760603) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-10. 💬 Commented on [#74](https://github.com/anthropics/anthropic-quickstarts/issues/74#issuecomment-2432544908) in [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts)<br>
+1. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2491509823) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
+2. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2486112799) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
+3. 💪 Opened PR [#6](https://github.com/codecoz/aim-admin/pull/6) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
+4. ✌️ Released [0.9](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.9) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+5. ✌️ Released [0.8](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.8) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+6. ✌️ Released [0.7](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.7) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+7. 💬 Commented on [#76](https://github.com/takielias/tablar/issues/76#issuecomment-2454774198) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+8. 💪 Opened PR [#5](https://github.com/codecoz/aim-admin/pull/5) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
+9. 💪 Opened PR [#9](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs/pull/9) in [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
+10. 🔱 Forked [takielias/laravel-clean-architecture-ddd-cqrs](undefined) from [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
