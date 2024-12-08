@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2491509823) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
-2. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2486112799) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
-3. 💪 Opened PR [#6](https://github.com/codecoz/aim-admin/pull/6) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
-4. ✌️ Released [0.9](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.9) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-5. ✌️ Released [0.8](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.8) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-6. ✌️ Released [0.7](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.7) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-7. 💬 Commented on [#76](https://github.com/takielias/tablar/issues/76#issuecomment-2454774198) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-8. 💪 Opened PR [#5](https://github.com/codecoz/aim-admin/pull/5) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
-9. 💪 Opened PR [#9](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs/pull/9) in [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
-10. 🔱 Forked [takielias/laravel-clean-architecture-ddd-cqrs](undefined) from [shahghasiadil/laravel-clean-architecture-ddd-cqrs](https://github.com/shahghasiadil/laravel-clean-architecture-ddd-cqrs)<br>
+1. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873718432) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+2. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873724486) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+3. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873716329) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+4. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873707860) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+5. 💬 Commented on [#77](https://github.com/takielias/tablar/issues/77#issuecomment-2522092721) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+6. ❗️ Opened issue [#48](https://github.com/RubixML/Tensor/issues/48) in [RubixML/Tensor](https://github.com/RubixML/Tensor)<br>
+7. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2491509823) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
+8. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2486112799) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
+9. 💪 Opened PR [#6](https://github.com/codecoz/aim-admin/pull/6) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
+10. ✌️ Released [0.9](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.9) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
