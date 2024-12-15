@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873718432) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-2. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873724486) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-3. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873716329) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-4. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873707860) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-5. 💬 Commented on [#77](https://github.com/takielias/tablar/issues/77#issuecomment-2522092721) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-6. ❗️ Opened issue [#48](https://github.com/RubixML/Tensor/issues/48) in [RubixML/Tensor](https://github.com/RubixML/Tensor)<br>
-7. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2491509823) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
-8. 💬 Commented on [#46](https://github.com/inertiaui/modal/issues/46#issuecomment-2486112799) in [inertiaui/modal](https://github.com/inertiaui/modal)<br>
-9. 💪 Opened PR [#6](https://github.com/codecoz/aim-admin/pull/6) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
-10. ✌️ Released [0.9](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.9) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+1. 🎉 Merged PR [#80](https://github.com/takielias/tablar/pull/80) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+2. 💬 Commented on [#80](https://github.com/takielias/tablar/pull/80#issuecomment-2533673209) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+3. 🎉 Merged PR [#79](https://github.com/takielias/tablar/pull/79) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+4. 💬 Commented on [#79](https://github.com/takielias/tablar/pull/79#issuecomment-2532278272) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+5. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1878464314) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+6. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873718432) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+7. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873724486) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+8. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873716329) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+9. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#discussion_r1873707860) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+10. 💬 Commented on [#77](https://github.com/takielias/tablar/issues/77#issuecomment-2522092721) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
