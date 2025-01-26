@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#29](https://github.com/takielias/tablar-kit/pull/29) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-2. 💪 Opened PR [#29](https://github.com/takielias/tablar-kit/pull/29) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-3. ✌️ Released [11.13](https://github.com/takielias/tablar-kit/releases/tag/11.13) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-4. ✌️ Released [11.12](https://github.com/takielias/tablar-kit/releases/tag/11.12) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-5. 🎉 Merged PR [#28](https://github.com/takielias/tablar-kit/pull/28) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-6. 💪 Opened PR [#28](https://github.com/takielias/tablar-kit/pull/28) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-7. 💬 Commented on [#78](https://github.com/takielias/tablar/pull/78#issuecomment-2562100461) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-8. ✌️ Released [0.10](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.10) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-9. 🎉 Merged PR [#1](https://github.com/takielias/laravel-ajax-builder/pull/1) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-10. 💪 Opened PR [#1](https://github.com/takielias/laravel-ajax-builder/pull/1) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+1. ✌️ Released [11.10](https://github.com/takielias/tablar/releases/tag/11.10) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+2. 🎉 Merged PR [#81](https://github.com/takielias/tablar/pull/81) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+3. 💪 Opened PR [#81](https://github.com/takielias/tablar/pull/81) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+4. ✌️ Released [0.11](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.11) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+5. 🎉 Merged PR [#2](https://github.com/takielias/laravel-ajax-builder/pull/2) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+6. 💪 Opened PR [#2](https://github.com/takielias/laravel-ajax-builder/pull/2) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+7. 🎉 Merged PR [#29](https://github.com/takielias/tablar-kit/pull/29) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+8. 💪 Opened PR [#29](https://github.com/takielias/tablar-kit/pull/29) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+9. ✌️ Released [11.13](https://github.com/takielias/tablar-kit/releases/tag/11.13) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+10. ✌️ Released [11.12](https://github.com/takielias/tablar-kit/releases/tag/11.12) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
