@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#82](https://github.com/takielias/tablar/issues/82#issuecomment-2628971955) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-2. ✌️ Released [0.13](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.13) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-3. 🎉 Merged PR [#4](https://github.com/takielias/laravel-ajax-builder/pull/4) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-4. 💪 Opened PR [#4](https://github.com/takielias/laravel-ajax-builder/pull/4) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-5. ✌️ Released [0.12](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.12) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-6. 🎉 Merged PR [#3](https://github.com/takielias/laravel-ajax-builder/pull/3) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-7. 💪 Opened PR [#3](https://github.com/takielias/laravel-ajax-builder/pull/3) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-8. ✌️ Released [11.10](https://github.com/takielias/tablar/releases/tag/11.10) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-9. 🎉 Merged PR [#81](https://github.com/takielias/tablar/pull/81) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-10. 💪 Opened PR [#81](https://github.com/takielias/tablar/pull/81) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+1. ✌️ Released [11.13](https://github.com/takielias/tablar/releases/tag/11.13) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+2. 🎉 Merged PR [#86](https://github.com/takielias/tablar/pull/86) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+3. 💪 Opened PR [#86](https://github.com/takielias/tablar/pull/86) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+4. ✌️ Released [11.12](https://github.com/takielias/tablar/releases/tag/11.12) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+5. 🎉 Merged PR [#85](https://github.com/takielias/tablar/pull/85) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+6. 💪 Opened PR [#85](https://github.com/takielias/tablar/pull/85) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+7. 🎉 Merged PR [#84](https://github.com/takielias/tablar/pull/84) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+8. 💪 Opened PR [#84](https://github.com/takielias/tablar/pull/84) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+9. ✌️ Released [11.11](https://github.com/takielias/tablar/releases/tag/11.11) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+10. 🎉 Merged PR [#83](https://github.com/takielias/tablar/pull/83) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
