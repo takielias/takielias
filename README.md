@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#68](https://github.com/rahulhaque/laravel-filepond/pull/68#issuecomment-2675975465) in [rahulhaque/laravel-filepond](https://github.com/rahulhaque/laravel-filepond)<br>
-2. ✌️ Released [11.16](https://github.com/takielias/tablar-kit/releases/tag/11.16) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-3. ✌️ Released [11.15](https://github.com/takielias/tablar-kit/releases/tag/11.15) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-4. ✌️ Released [11.14](https://github.com/takielias/tablar-kit/releases/tag/11.14) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-5. ❌ Closed PR [#30](https://github.com/takielias/tablar-kit/pull/30) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-6. 💪 Opened PR [#30](https://github.com/takielias/tablar-kit/pull/30) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-7. ✌️ Released [11.14](https://github.com/takielias/tablar-kit/releases/tag/11.14) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-8. 💬 Commented on [#94](https://github.com/bogkonstantin/android_income_sms_gateway_webhook/issues/94#issuecomment-2673565821) in [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook)<br>
-9. ❗️ Opened issue [#94](https://github.com/bogkonstantin/android_income_sms_gateway_webhook/issues/94) in [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook)<br>
-10. 💬 Commented on [#81](https://github.com/bogkonstantin/android_income_sms_gateway_webhook/issues/81#issuecomment-2673333142) in [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook)<br>
+1. 💬 Commented on [#335](https://github.com/lightpanda-io/browser/issues/335#issuecomment-2688738613) in [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
+2. 💬 Commented on [#335](https://github.com/lightpanda-io/browser/issues/335#issuecomment-2686909827) in [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
+3. 💬 Commented on [#68](https://github.com/rahulhaque/laravel-filepond/pull/68#issuecomment-2677380071) in [rahulhaque/laravel-filepond](https://github.com/rahulhaque/laravel-filepond)<br>
+4. 💬 Commented on [#68](https://github.com/rahulhaque/laravel-filepond/pull/68#issuecomment-2676550357) in [rahulhaque/laravel-filepond](https://github.com/rahulhaque/laravel-filepond)<br>
+5. 💬 Commented on [#68](https://github.com/rahulhaque/laravel-filepond/pull/68#issuecomment-2675975465) in [rahulhaque/laravel-filepond](https://github.com/rahulhaque/laravel-filepond)<br>
+6. ✌️ Released [11.16](https://github.com/takielias/tablar-kit/releases/tag/11.16) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+7. ✌️ Released [11.15](https://github.com/takielias/tablar-kit/releases/tag/11.15) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+8. ✌️ Released [11.14](https://github.com/takielias/tablar-kit/releases/tag/11.14) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+9. ❌ Closed PR [#30](https://github.com/takielias/tablar-kit/pull/30) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+10. 💪 Opened PR [#30](https://github.com/takielias/tablar-kit/pull/30) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
