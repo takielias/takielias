@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/takielias/ddev-oci8/pull/3#issuecomment-2798966769) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-2. 💬 Commented on [#2](https://github.com/takielias/ddev-oci8/issues/2#issuecomment-2798764851) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-3. ✌️ Released [1.0](https://github.com/takielias/tablar-starter-kit/releases/tag/1.0) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-4. 💪 Opened PR [#21](https://github.com/tnylea/laravel-new/pull/21) in [tnylea/laravel-new](https://github.com/tnylea/laravel-new)<br>
-5. ✌️ Released [0.17](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.17) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-6. 🎉 Merged PR [#8](https://github.com/takielias/laravel-ajax-builder/pull/8) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-7. 💪 Opened PR [#8](https://github.com/takielias/laravel-ajax-builder/pull/8) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-8. ✌️ Released [0.16](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.16) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-9. 🎉 Merged PR [#7](https://github.com/takielias/laravel-ajax-builder/pull/7) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-10. 💪 Opened PR [#7](https://github.com/takielias/laravel-ajax-builder/pull/7) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+1. ✌️ Released [2.0.1](https://github.com/takielias/ddev-oci8/releases/tag/2.0.1) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+2. ✌️ Released [2.0.0](https://github.com/takielias/ddev-oci8/releases/tag/2.0.0) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+3. ✔️ Closed issue [#1](https://github.com/takielias/ddev-oci8/issues/1) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+4. 🎉 Merged PR [#4](https://github.com/takielias/ddev-oci8/pull/4) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+5. 💬 Commented on [#4](https://github.com/takielias/ddev-oci8/pull/4#discussion_r2043512509) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+6. 💬 Commented on [#4](https://github.com/takielias/ddev-oci8/pull/4#discussion_r2043511716) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+7. 💬 Commented on [#4](https://github.com/takielias/ddev-oci8/pull/4#discussion_r2043505300) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+8. 💬 Commented on [#4](https://github.com/takielias/ddev-oci8/pull/4#issuecomment-2803687276) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+9. 💬 Commented on [#4](https://github.com/takielias/ddev-oci8/pull/4#issuecomment-2803687030) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+10. 💪 Opened PR [#4](https://github.com/takielias/ddev-oci8/pull/4) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
