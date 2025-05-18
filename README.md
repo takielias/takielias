@@ -19,16 +19,14 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#29](https://github.com/biersoeckli/QuickStack/issues/29) in [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
-2. ❗️ Opened issue [#28](https://github.com/biersoeckli/QuickStack/issues/28) in [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
-3. 🔱 Forked [takielias/QuickStack](https://github.com/takielias/QuickStack) from [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
-4. 💬 Commented on [#33](https://github.com/takielias/tablar-kit/issues/33#issuecomment-2853294771) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-5. 💬 Commented on [#16](https://github.com/takielias/codeigniter4-websocket/issues/16#issuecomment-2849990288) in [takielias/codeigniter4-websocket](https://github.com/takielias/codeigniter4-websocket)<br>
-6. ✌️ Released [2.0.1](https://github.com/takielias/ddev-oci8/releases/tag/2.0.1) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-7. ✌️ Released [2.0.0](https://github.com/takielias/ddev-oci8/releases/tag/2.0.0) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-8. ✔️ Closed issue [#1](https://github.com/takielias/ddev-oci8/issues/1) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-9. 🎉 Merged PR [#4](https://github.com/takielias/ddev-oci8/pull/4) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-10. 💬 Commented on [#4](https://github.com/takielias/ddev-oci8/pull/4#discussion_r2043512509) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+1. 💬 Commented on [#619](https://github.com/kubero-dev/kubero/pull/619#issuecomment-2884497324) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)<br>
+2. ✔️ Closed issue [#33](https://github.com/takielias/tablar-kit/issues/33) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+3. ❗️ Opened issue [#29](https://github.com/biersoeckli/QuickStack/issues/29) in [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
+4. ❗️ Opened issue [#28](https://github.com/biersoeckli/QuickStack/issues/28) in [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
+5. 🔱 Forked [takielias/QuickStack](https://github.com/takielias/QuickStack) from [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
+6. 💬 Commented on [#33](https://github.com/takielias/tablar-kit/issues/33#issuecomment-2853294771) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+7. 💬 Commented on [#16](https://github.com/takielias/codeigniter4-websocket/issues/16#issuecomment-2849990288) in [takielias/codeigniter4-websocket](https://github.com/takielias/codeigniter4-websocket)<br>
+8. ✌️ Released [2.0.1](https://github.com/takielias/ddev-oci8/releases/tag/2.0.1) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
