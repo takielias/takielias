@@ -19,15 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](https://github.com/codecoz/aim-admin/pull/9) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
-2. 💪 Opened PR [#8](https://github.com/codecoz/aim-admin/pull/8) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
-3. 💬 Commented on [#619](https://github.com/kubero-dev/kubero/pull/619#issuecomment-2884497324) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)<br>
-4. ✔️ Closed issue [#33](https://github.com/takielias/tablar-kit/issues/33) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-5. ❗️ Opened issue [#29](https://github.com/biersoeckli/QuickStack/issues/29) in [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
-6. ❗️ Opened issue [#28](https://github.com/biersoeckli/QuickStack/issues/28) in [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
-7. 🔱 Forked [takielias/QuickStack](https://github.com/takielias/QuickStack) from [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack)<br>
-8. 💬 Commented on [#33](https://github.com/takielias/tablar-kit/issues/33#issuecomment-2853294771) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-9. 💬 Commented on [#16](https://github.com/takielias/codeigniter4-websocket/issues/16#issuecomment-2849990288) in [takielias/codeigniter4-websocket](https://github.com/takielias/codeigniter4-websocket)<br>
+1. 🎉 Merged PR [#90](https://github.com/takielias/tablar/pull/90) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+2. 💪 Opened PR [#90](https://github.com/takielias/tablar/pull/90) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+3. ✌️ Released [12.03](https://github.com/takielias/tablar/releases/tag/12.03) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+4. 🎉 Merged PR [#34](https://github.com/takielias/tablar-kit/pull/34) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+5. 💪 Opened PR [#34](https://github.com/takielias/tablar-kit/pull/34) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+6. ✌️ Released [12.01](https://github.com/takielias/tablar-kit/releases/tag/12.01) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+7. ✌️ Released [12.02](https://github.com/takielias/tablar/releases/tag/12.02) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+8. 💪 Opened PR [#9](https://github.com/codecoz/aim-admin/pull/9) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
+9. 💪 Opened PR [#8](https://github.com/codecoz/aim-admin/pull/8) in [codecoz/aim-admin](https://github.com/codecoz/aim-admin)<br>
+10. 💬 Commented on [#619](https://github.com/kubero-dev/kubero/pull/619#issuecomment-2884497324) in [kubero-dev/kubero](https://github.com/kubero-dev/kubero)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
