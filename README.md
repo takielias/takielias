@@ -19,15 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#35](https://github.com/takielias/tablar-kit/pull/35) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-2. 💬 Commented on [#32](https://github.com/takielias/tablar-kit/issues/32#issuecomment-2939043056) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-3. 💬 Commented on [#32](https://github.com/takielias/tablar-kit/issues/32#issuecomment-2939012134) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-4. 🎉 Merged PR [#90](https://github.com/takielias/tablar/pull/90) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-5. 💪 Opened PR [#90](https://github.com/takielias/tablar/pull/90) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-6. ✌️ Released [12.03](https://github.com/takielias/tablar/releases/tag/12.03) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-7. 🎉 Merged PR [#34](https://github.com/takielias/tablar-kit/pull/34) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-8. 💪 Opened PR [#34](https://github.com/takielias/tablar-kit/pull/34) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-9. ✌️ Released [12.01](https://github.com/takielias/tablar-kit/releases/tag/12.01) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+1. 🎉 Merged PR [#4](https://github.com/takielias/contract-resolver/pull/4) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
+2. 💪 Opened PR [#4](https://github.com/takielias/contract-resolver/pull/4) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
+3. 🎉 Merged PR [#3](https://github.com/takielias/contract-resolver/pull/3) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
+4. 💪 Opened PR [#3](https://github.com/takielias/contract-resolver/pull/3) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
+5. ✌️ Released [0.2](https://github.com/takielias/contract-resolver/releases/tag/0.2) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
+6. 🎉 Merged PR [#2](https://github.com/takielias/contract-resolver/pull/2) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
+7. 💪 Opened PR [#2](https://github.com/takielias/contract-resolver/pull/2) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
+8. ✌️ Released [12.07](https://github.com/takielias/tablar-kit/releases/tag/12.07) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+9. 🎉 Merged PR [#41](https://github.com/takielias/tablar-kit/pull/41) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+10. 💪 Opened PR [#41](https://github.com/takielias/tablar-kit/pull/41) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
