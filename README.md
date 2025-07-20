@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#44](https://github.com/takielias/tablar-kit/issues/44#issuecomment-3043375325) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-2. ✌️ Released [12.10](https://github.com/takielias/tablar-kit/releases/tag/12.10) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-3. 🎉 Merged PR [#45](https://github.com/takielias/tablar-kit/pull/45) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-4. 💪 Opened PR [#45](https://github.com/takielias/tablar-kit/pull/45) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-5. ✌️ Released [12.05](https://github.com/takielias/tablar/releases/tag/12.05) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-6. ✌️ Released [12.04](https://github.com/takielias/tablar/releases/tag/12.04) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-7. ✌️ Released [1.1](https://github.com/takielias/tablar-starter-kit/releases/tag/1.1) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-8. ✌️ Released [12.09](https://github.com/takielias/tablar-kit/releases/tag/12.09) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-9. 🎉 Merged PR [#43](https://github.com/takielias/tablar-kit/pull/43) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-10. 💪 Opened PR [#43](https://github.com/takielias/tablar-kit/pull/43) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+1. ✌️ Released [12.11](https://github.com/takielias/tablar-kit/releases/tag/12.11) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+2. 🎉 Merged PR [#46](https://github.com/takielias/tablar-kit/pull/46) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+3. 💪 Opened PR [#46](https://github.com/takielias/tablar-kit/pull/46) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+4. 💬 Commented on [#44](https://github.com/takielias/tablar-kit/issues/44#issuecomment-3043375325) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+5. ✌️ Released [12.10](https://github.com/takielias/tablar-kit/releases/tag/12.10) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+6. 🎉 Merged PR [#45](https://github.com/takielias/tablar-kit/pull/45) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+7. 💪 Opened PR [#45](https://github.com/takielias/tablar-kit/pull/45) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+8. ✌️ Released [12.05](https://github.com/takielias/tablar/releases/tag/12.05) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+9. ✌️ Released [12.04](https://github.com/takielias/tablar/releases/tag/12.04) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+10. ✌️ Released [1.1](https://github.com/takielias/tablar-starter-kit/releases/tag/1.1) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
