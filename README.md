@@ -19,9 +19,6 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [12.11](https://github.com/takielias/tablar-kit/releases/tag/12.11) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-2. 🎉 Merged PR [#46](https://github.com/takielias/tablar-kit/pull/46) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-3. 💪 Opened PR [#46](https://github.com/takielias/tablar-kit/pull/46) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
