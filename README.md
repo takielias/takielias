@@ -23,12 +23,6 @@
 2. 🎉 Merged PR [#51](https://github.com/takielias/tablar-kit/pull/51) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 3. 💪 Opened PR [#51](https://github.com/takielias/tablar-kit/pull/51) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 4. 🔱 Forked [takielias/FlareSolverr](https://github.com/takielias/FlareSolverr) from [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)<br>
-5. ✌️ Released [12.14](https://github.com/takielias/tablar-kit/releases/tag/12.14) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-6. 🎉 Merged PR [#50](https://github.com/takielias/tablar-kit/pull/50) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-7. 💪 Opened PR [#50](https://github.com/takielias/tablar-kit/pull/50) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-8. ✌️ Released [12.13](https://github.com/takielias/tablar-kit/releases/tag/12.13) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-9. 🎉 Merged PR [#49](https://github.com/takielias/tablar-kit/pull/49) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-10. 💪 Opened PR [#49](https://github.com/takielias/tablar-kit/pull/49) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
