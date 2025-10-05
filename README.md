@@ -22,7 +22,6 @@
 1. ✌️ Released [12.15](https://github.com/takielias/tablar-kit/releases/tag/12.15) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 2. 🎉 Merged PR [#51](https://github.com/takielias/tablar-kit/pull/51) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 3. 💪 Opened PR [#51](https://github.com/takielias/tablar-kit/pull/51) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-4. 🔱 Forked [takielias/FlareSolverr](https://github.com/takielias/FlareSolverr) from [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
