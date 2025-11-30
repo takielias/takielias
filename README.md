@@ -26,8 +26,6 @@
 5. 💪 Opened PR [#58](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 6. ✌️ Released [12.20](https://github.com/takielias/tablar-kit/releases/tag/12.20) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 7. 💪 Opened PR [#57](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-8. ✌️ Released [0.18](https://github.com/takielias/laravel-ajax-builder/releases/tag/0.18) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-9. 💪 Opened PR [#9](undefined) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
