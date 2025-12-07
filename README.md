@@ -23,9 +23,6 @@
 2. 💬 Commented on [#92](https://github.com/takielias/tablar/pull/92#issuecomment-3539779380) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 3. 💬 Commented on [#92](https://github.com/takielias/tablar/pull/92#issuecomment-3538867251) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 4. 💬 Commented on [#92](https://github.com/takielias/tablar/pull/92#issuecomment-3537705266) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-5. 💪 Opened PR [#58](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-6. ✌️ Released [12.20](https://github.com/takielias/tablar-kit/releases/tag/12.20) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-7. 💪 Opened PR [#57](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
