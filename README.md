@@ -22,7 +22,6 @@
 1. ✔️ Closed issue [#89](https://github.com/takielias/tablar/issues/89) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 2. 💪 Opened PR [#93](undefined) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 3. ✌️ Released [12.07](https://github.com/takielias/tablar/releases/tag/12.07) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-4. ❗️ Opened issue [#8](https://github.com/foreveryh/claude-code-switch/issues/8) in [foreveryh/claude-code-switch](https://github.com/foreveryh/claude-code-switch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
