@@ -19,7 +19,11 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#94](https://github.com/takielias/tablar/pull/94#issuecomment-3738228227) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+1. ✌️ Released [2.1](https://github.com/takielias/tablar-starter-kit/releases/tag/2.1) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
+2. 💪 Opened PR [#2](undefined) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
+3. ✌️ Released [2.0](https://github.com/takielias/tablar-starter-kit/releases/tag/2.0) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
+4. 💪 Opened PR [#1](undefined) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
+5. ✌️ Released [13.0](https://github.com/takielias/tablar/releases/tag/13.0) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
