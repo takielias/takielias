@@ -20,11 +20,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [takielias/fiddler-demo](https://github.com/takielias/fiddler-demo) from [auto-yui-patch/fiddler-everywhere-patch-automated](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated)<br>
-2. ✌️ Released [2.1](https://github.com/takielias/tablar-starter-kit/releases/tag/2.1) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-3. 💪 Opened PR [#2](undefined) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-4. ✌️ Released [2.0](https://github.com/takielias/tablar-starter-kit/releases/tag/2.0) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-5. 💪 Opened PR [#1](undefined) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-6. ✌️ Released [13.0](https://github.com/takielias/tablar/releases/tag/13.0) in [takielias/tablar](https://github.com/takielias/tablar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
