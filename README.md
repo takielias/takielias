@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.0.3](https://github.com/takielias/ddev-coolify/releases/tag/1.0.3) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
-2. ✌️ Released [1.0.2](https://github.com/takielias/ddev-coolify/releases/tag/1.0.2) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
-3. ✌️ Released [2.5](https://github.com/takielias/tablar-crud-generator/releases/tag/2.5) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-4. 💪 Opened PR [#12](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-5. ✌️ Released [13.01](https://github.com/takielias/tablar/releases/tag/13.01) in [takielias/tablar](https://github.com/takielias/tablar)<br>
-6. ✌️ Released [13.00](https://github.com/takielias/tablar-kit/releases/tag/13.00) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-7. 💪 Opened PR [#59](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-8. ✌️ Released [0.3](https://github.com/takielias/contract-resolver/releases/tag/0.3) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
-9. 💪 Opened PR [#5](undefined) in [takielias/contract-resolver](https://github.com/takielias/contract-resolver)<br>
-10. ✌️ Released [v1.0.1](https://github.com/takielias/ddev-coolify/releases/tag/v1.0.1) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
+1. ✌️ Released [3.1](https://github.com/takielias/tablar-crud-generator/releases/tag/3.1) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
+2. ✌️ Released [v0.4.0](https://github.com/takielias/certgun/releases/tag/v0.4.0) in [takielias/certgun](https://github.com/takielias/certgun)<br>
+3. ✌️ Released [v0.3.0](https://github.com/takielias/certgun/releases/tag/v0.3.0) in [takielias/certgun](https://github.com/takielias/certgun)<br>
+4. ✌️ Released [13.01](https://github.com/takielias/tablar-kit/releases/tag/13.01) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+5. 💪 Opened PR [#60](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+6. 💪 Opened PR [#95](undefined) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+7. ✌️ Released [13.02](https://github.com/takielias/tablar/releases/tag/13.02) in [takielias/tablar](https://github.com/takielias/tablar)<br>
+8. 💪 Opened PR [#13](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
+9. ✌️ Released [3.0](https://github.com/takielias/tablar-crud-generator/releases/tag/3.0) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
+10. ✌️ Released [1.0](https://github.com/takielias/laravel-ajax-builder/releases/tag/1.0) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
