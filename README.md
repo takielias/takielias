@@ -19,16 +19,16 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#61](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-2. ✌️ Released [13.02](https://github.com/takielias/tablar-kit/releases/tag/13.02) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-3. 💬 Commented on [#2254](https://github.com/anthropics/claude-code/issues/2254#issuecomment-4272488587) in [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
-4. 💬 Commented on [#7](https://github.com/takielias/ddev-oci8/issues/7#issuecomment-4266024293) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-5. ✌️ Released [2.1.0](https://github.com/takielias/ddev-oci8/releases/tag/2.1.0) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-6. ✔️ Closed issue [#5](https://github.com/takielias/ddev-oci8/issues/5) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-7. ✌️ Released [2.2](https://github.com/takielias/tablar-starter-kit/releases/tag/2.2) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-8. 💪 Opened PR [#3](undefined) in [takielias/tablar-starter-kit](https://github.com/takielias/tablar-starter-kit)<br>
-9. ✌️ Released [2.1](https://github.com/takielias/codeigniter4-websocket/releases/tag/2.1) in [takielias/codeigniter4-websocket](https://github.com/takielias/codeigniter4-websocket)<br>
-10. 💬 Commented on [#17](https://github.com/takielias/codeigniter4-websocket/pull/17#issuecomment-4234476661) in [takielias/codeigniter4-websocket](https://github.com/takielias/codeigniter4-websocket)<br>
+1. ✌️ Released [13.1.2](https://github.com/takielias/tablar-kit/releases/tag/13.1.2) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+2. 💪 Opened PR [#65](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+3. ✌️ Released [13.1.1](https://github.com/takielias/tablar-kit/releases/tag/13.1.1) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+4. 💪 Opened PR [#64](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
+5. ✌️ Released [1.1.0](https://github.com/takielias/laravel-ajax-builder/releases/tag/1.1.0) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+6. ✌️ Released [3.2.0](https://github.com/takielias/tablar-crud-generator/releases/tag/3.2.0) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
+7. 💪 Opened PR [#19](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
+8. 💪 Opened PR [#18](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
+9. 💪 Opened PR [#17](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
+10. 💪 Opened PR [#16](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
