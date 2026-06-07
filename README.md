@@ -19,16 +19,6 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [13.1.2](https://github.com/takielias/tablar-kit/releases/tag/13.1.2) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-2. 💪 Opened PR [#65](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-3. ✌️ Released [13.1.1](https://github.com/takielias/tablar-kit/releases/tag/13.1.1) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-4. 💪 Opened PR [#64](undefined) in [takielias/tablar-kit](https://github.com/takielias/tablar-kit)<br>
-5. ✌️ Released [1.1.0](https://github.com/takielias/laravel-ajax-builder/releases/tag/1.1.0) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-6. ✌️ Released [3.2.0](https://github.com/takielias/tablar-crud-generator/releases/tag/3.2.0) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-7. 💪 Opened PR [#19](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-8. 💪 Opened PR [#18](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-9. 💪 Opened PR [#17](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
-10. 💪 Opened PR [#16](undefined) in [takielias/tablar-crud-generator](https://github.com/takielias/tablar-crud-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
