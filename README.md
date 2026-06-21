@@ -19,6 +19,9 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
+1. ✌️ Released [1.1.1](https://github.com/takielias/laravel-ajax-builder/releases/tag/1.1.1) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+2. ✔️ Closed issue [#13](https://github.com/takielias/laravel-ajax-builder/issues/13) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
+3. 💪 Opened PR [#14](undefined) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
