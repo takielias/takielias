@@ -21,9 +21,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ✌️ Released [1.0.8](https://github.com/takielias/ddev-coolify/releases/tag/1.0.8) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
 2. 💪 Opened PR [#1](undefined) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
-3. ✌️ Released [1.1.1](https://github.com/takielias/laravel-ajax-builder/releases/tag/1.1.1) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-4. ✔️ Closed issue [#13](https://github.com/takielias/laravel-ajax-builder/issues/13) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
-5. 💪 Opened PR [#14](undefined) in [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
