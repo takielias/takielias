@@ -19,8 +19,10 @@
 ### Recent Update
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.0.8](https://github.com/takielias/ddev-coolify/releases/tag/1.0.8) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
-2. 💪 Opened PR [#1](undefined) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
+1. ✌️ Released [1.0.9](https://github.com/takielias/ddev-coolify/releases/tag/1.0.9) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
+2. 💪 Opened PR [#2](undefined) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
+3. ✌️ Released [1.0.8](https://github.com/takielias/ddev-coolify/releases/tag/1.0.8) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
+4. 💪 Opened PR [#1](undefined) in [takielias/ddev-coolify](https://github.com/takielias/ddev-coolify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # My Precious PHP Library
